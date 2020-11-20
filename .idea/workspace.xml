@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2ba67b2f-2f3a-4910-b3e2-8a935e9ea753" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/create-table.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/create-table.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/style.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/thank-you.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/thank-you.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/update-lambda.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/update-lambda.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
